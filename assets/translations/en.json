@@ -1,0 +1,13 @@
+{
+    "error": {
+        "unknownException": "Unknown Exception",
+        "network": {
+            "requestCancelled": "Request Cancelled",
+            "unexpectedError": "Something Wrong",
+            "requestTimeout": "Request Timeout",
+            "noInternetConnection": "No Internet Connection",
+            "sendTimeout": "Send Timeout",
+            "formatException": "Format Error"
+        }
+    }
+}
